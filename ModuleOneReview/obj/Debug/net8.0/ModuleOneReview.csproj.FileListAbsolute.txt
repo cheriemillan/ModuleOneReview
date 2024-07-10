@@ -1,0 +1,14 @@
+C:\Users\cheri\OneDrive\Desktop\repos\ModuleOneReview\ModuleOneReview\bin\Debug\net8.0\ModuleOneReview.exe
+C:\Users\cheri\OneDrive\Desktop\repos\ModuleOneReview\ModuleOneReview\bin\Debug\net8.0\ModuleOneReview.deps.json
+C:\Users\cheri\OneDrive\Desktop\repos\ModuleOneReview\ModuleOneReview\bin\Debug\net8.0\ModuleOneReview.runtimeconfig.json
+C:\Users\cheri\OneDrive\Desktop\repos\ModuleOneReview\ModuleOneReview\bin\Debug\net8.0\ModuleOneReview.dll
+C:\Users\cheri\OneDrive\Desktop\repos\ModuleOneReview\ModuleOneReview\bin\Debug\net8.0\ModuleOneReview.pdb
+C:\Users\cheri\OneDrive\Desktop\repos\ModuleOneReview\ModuleOneReview\obj\Debug\net8.0\ModuleOneReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheri\OneDrive\Desktop\repos\ModuleOneReview\ModuleOneReview\obj\Debug\net8.0\ModuleOneReview.AssemblyInfoInputs.cache
+C:\Users\cheri\OneDrive\Desktop\repos\ModuleOneReview\ModuleOneReview\obj\Debug\net8.0\ModuleOneReview.AssemblyInfo.cs
+C:\Users\cheri\OneDrive\Desktop\repos\ModuleOneReview\ModuleOneReview\obj\Debug\net8.0\ModuleOneReview.csproj.CoreCompileInputs.cache
+C:\Users\cheri\OneDrive\Desktop\repos\ModuleOneReview\ModuleOneReview\obj\Debug\net8.0\ModuleOneReview.dll
+C:\Users\cheri\OneDrive\Desktop\repos\ModuleOneReview\ModuleOneReview\obj\Debug\net8.0\refint\ModuleOneReview.dll
+C:\Users\cheri\OneDrive\Desktop\repos\ModuleOneReview\ModuleOneReview\obj\Debug\net8.0\ModuleOneReview.pdb
+C:\Users\cheri\OneDrive\Desktop\repos\ModuleOneReview\ModuleOneReview\obj\Debug\net8.0\ModuleOneReview.genruntimeconfig.cache
+C:\Users\cheri\OneDrive\Desktop\repos\ModuleOneReview\ModuleOneReview\obj\Debug\net8.0\ref\ModuleOneReview.dll
